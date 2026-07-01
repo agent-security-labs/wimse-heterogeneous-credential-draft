@@ -13,12 +13,12 @@ This is the working area for the individual Internet-Draft, "Heterogeneous Crede
 ## Demo
 
 The [`demo/`](demo/) directory holds a proof-of-concept demonstration of the
-heterogeneous credential verification flow described in this draft:
+heterogeneous credential verification flow described in this draft — standalone
+demo executables for Linux, macOS, and Windows:
 
-* `heterogeneous-credential-demo.pptx` — slides that walk through the demo.
-* `heterogeneous-credential-demo-linux` / `heterogeneous-credential-demo-macos` /
-  `heterogeneous-credential-demo-windows.exe` — standalone demo executables for
-  Linux, macOS, and Windows.
+* `heterogeneous-credential-demo-linux`
+* `heterogeneous-credential-demo-macos`
+* `heterogeneous-credential-demo-windows.exe`
 
 These are illustrative artifacts and are not part of the Internet-Draft itself.
 
